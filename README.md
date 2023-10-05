@@ -5,3 +5,5 @@ This repository contains an example model of a thermal control system for use wi
 Hello, EcoCAR!
 
 This is me developing another increment to the system.
+
+Some more changes added!
